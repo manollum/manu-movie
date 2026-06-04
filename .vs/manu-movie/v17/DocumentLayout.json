@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Manu\\source\\repos\\manu-movie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|c:\\users\\manu\\source\\repos\\manu-movie\\manu-movie\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BEA2C-12EB-43A2-8492-0A8E597D83F7}|manu-movie\\manu-movie.csproj|solutionrelative:manu-movie\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Favorito.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:45:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Review.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Review.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:35:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Pelicula.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Pelicula.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:30:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Usuario.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:28:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plataforma.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Plataforma.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Plataforma.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Plataforma.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Plataforma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:27:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "manu-movie\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\Manu\\source\\repos\\manu-movie\\manu-movie\\Models\\Genero.cs",
+              "RelativeToolTip": "manu-movie\\Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:26:06.065Z",
+              "EditorCaption": ""
             }
           ]
         }

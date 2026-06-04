@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("manu-movie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b969b792f94916c532b30f85916b7dc77b41ba4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("manu-movie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("manu-movie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
